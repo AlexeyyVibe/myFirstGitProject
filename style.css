@@ -1,0 +1,28 @@
+p {
+  color: red;
+  font-size: 30px;
+}
+
+.top-bg-img {
+  background-image: url("/src/img/top_img_cameras_final2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 778px;
+  margin: 0;
+}
+
+.top-nav-menu {
+  list-style-type: none;
+}
+
+.top-nav-menu-element {
+  color: lightgrey;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+}
+
+.top-logo-img {
+  scale: 0.4;
+}
